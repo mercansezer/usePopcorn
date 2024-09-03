@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# usePopcorn
+Film ve Dizi Arama Uygulaması: Uygulama, HTML, CSS ve React.js kullanılarak geliştirilmiş olup, OMDb API üzerinden film ve dizi verilerini çekmektedir. React hook'ları ve custom hooks ile dinamik bir arayüz sağlanmış, performans iyileştirmeleri için AbortController API'si kullanılmıştır. Localstorage ile veriler depolanmıştır.
+>>>>>>> f693e78b6e690ded233a91c65acdc56a1be14c90
