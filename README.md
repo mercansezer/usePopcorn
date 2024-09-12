@@ -19,4 +19,4 @@
 
 ## Canlı Demo
 
-Uygulamanın canlı versiyonunu [buradan](https://link-to-your-live-demo.com) görüntüleyebilirsiniz.
+Uygulamanın canlı versiyonunu [buradan](https://usepopcorn.netlify.app/) görüntüleyebilirsiniz.
